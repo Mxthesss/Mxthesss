@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mxthesss
-- 👀 I’m interested in FiveM, Valorant and also Developing NitroRP .-.
+- 👀 I’m interested in FiveM, Valorant and also Developing DRRP.cz and New MC project
 - 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on https://www.bombashop.cz/
 - 📫 How to reach me DM on discord: Mxthess#1157.
