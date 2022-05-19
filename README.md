@@ -5,8 +5,9 @@
 - 📫 How to reach me DM on discord: Mxthess#1157.
 
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
-![<Spotify>](https://img.shields.io/spotify/<Spotify>-<Blue>?style=for-the-badge&logo=<Spotify>&logoColor=<White>)
+
 
 
 <!---
