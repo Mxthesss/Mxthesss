@@ -5,7 +5,7 @@
 - 📫 How to reach me DM on discord: Mxthess#1157.
 
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 
 
 
