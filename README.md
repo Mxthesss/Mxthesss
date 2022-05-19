@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on https://www.bombashop.cz/
 - 📫 How to reach me DM on discord: Mxthess#1157.
 
+
+
+![<Spotify>](https://img.shields.io/spotify/<Spotify>-<Blue>?style=for-the-badge&logo=<Spotify>&logoColor=<White>)
+
+
 <!---
 Mxthesss/Mxthesss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
