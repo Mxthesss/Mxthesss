@@ -55,29 +55,6 @@
 <div align='center'>
 <br>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-<div align='center'>
-
-
-
-
-<br/>
-
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mxthess&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxthess&layout=compact&theme=react"/>
-	    
-</div
-
-<br/>
-
-
       
 
 
@@ -97,5 +74,5 @@
 <br>
 
 <div align='center'>
- Last Edited on: 11/20/2022 📅
+ Last Edited on: 30/01/2023 📅
 <div align='center'>
