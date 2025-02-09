@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Mxthess </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center"><b>Hi , I'm Mxthess </b><img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://tenor.com/view/ping-cat-ping-pong-gif-27640459)" width="40"></h1>
 
 
 <br>
@@ -8,7 +8,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://tenor.com/view/ping-cat-ping-pong-gif-27640459" width = 250px></picture>
 
 
 <br>
