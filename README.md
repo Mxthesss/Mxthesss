@@ -17,6 +17,7 @@
 - <h3 align="left"> Starting developer in FiveM </h3>
 - <h3 align="left"> Developing via Lua, CSS, HTML and also JS </h3>
 - <h3 align="left"> Like to learn new stuff </h3>
+- <h3 align="left"> Learning OX </h3>
 
 <br><br>
 
